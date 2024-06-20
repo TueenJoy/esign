@@ -1,5 +1,5 @@
 # esignature
-
+基于convas实现电子签名功能的vue2demo 
 ## Project setup
 ```
 npm install
@@ -10,10 +10,3 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
